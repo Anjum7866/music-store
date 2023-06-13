@@ -1,0 +1,14 @@
+.category-detail {
+  padding: 3em 0;
+}
+
+.container.category {
+  display: grid;
+  grid-template-columns: 19% 80%;
+  align-items: flex-start;
+}
+
+.content,
+.sidebar {
+  padding: 0em;
+}
